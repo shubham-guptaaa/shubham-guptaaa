@@ -88,7 +88,7 @@ Generate articles, blog titles, and AI-enhanced images with intelligent AI. Buil
 - 🤖 Real-time AI content generation with OpenAI integration
 - 📊 User dashboard with usage analytics
 
-**[View Project](https://github.com/shubham-guptaaa/medhAI)** | **[Live Demo](https://medhAI.vercel.app)**
+**[View Project](https://github.com/shubham-guptaaa/medhAI)** | **[Live Demo](https://medh-9ppsw6afa-shubham-guptas-projects-2c726f36.vercel.app/)**
 
 ---
 
@@ -105,7 +105,7 @@ Practice interviews with an AI assistant that asks questions in real-time using 
 - 📝 Session history with feedback and improvement tracking
 - 📈 Performance analytics dashboard
 
-**[View Project](https://github.com/shubham-guptaaa/placement-ai)** | **[Live Demo](https://placementai.vercel.app)**
+**[View Project](https://github.com/shubham-guptaaa/ai_interview)** | **[Live Demo](https://ai-interview-sigma-ten.vercel.app/sign-in)**
 
 ---
 
@@ -121,7 +121,7 @@ Help students and travelers adapt to new cities through personalized recommendat
 - 📍 Location-based recommendations
 - 🧭 Intuitive navigation for new residents
 
-**[View Project](https://github.com/shubham-guptaaa/uniguide)** | **[Live Demo](https://uniguideproject.netlify.app)**
+**[View Project](https://github.com/shubham-guptaaa/uniguide)** | **[Live Demo](https://uniguideproject.netlify.app/)**
 
 ---
 
